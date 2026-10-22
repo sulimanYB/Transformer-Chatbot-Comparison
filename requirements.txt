@@ -1,0 +1,16 @@
+
+# Deep Learning and NLP
+torch==2.14.1
+transformers==5.20.2
+sentencepiece==0.2.2
+
+# Data Analysis and Visualisation
+pandas==3.0.6
+matplotlib==3.11.2
+
+# LLM-as-a-Judge
+openai==3.36.1
+python-dotenv==1.2.4
+
+# Jupyter Notebook
+ipykernel==7.4.0

@@ -1,0 +1,10 @@
+Model,Prompt,Response,Response Time (s),Generated Tokens,Accuracy,Relevance,Completeness,Quality Score
+google/flan-t5-small,Define artificial intelligence in one simple sentence.,Artificial intelligence,0.042,4,0,0,0,0
+google/flan-t5-small,Explain machine learning to a beginner in one sentence.,A machine learning machine is a machine that is used to learn machine learning.,0.15,18,0,0,0,0
+google/flan-t5-small,Answer this geography question: What is the capital city of France?,london,0.049,6,0,1,0,1
+google/flan-t5-base,Define artificial intelligence in one simple sentence.,Artificial intelligence is a type of artificial intelligence.,0.281,12,0,1,0,1
+google/flan-t5-base,Explain machine learning to a beginner in one sentence.,Machine learning is a process that uses data to learn a new skill.,0.388,18,1,2,1,4
+google/flan-t5-base,Answer this geography question: What is the capital city of France?,london,0.148,6,0,1,0,1
+facebook/blenderbot-400M-distill,Define artificial intelligence in one simple sentence.,"I'm not sure what you mean by that, could you elaborate a little bit more?",2.978,21,0,1,0,1
+facebook/blenderbot-400M-distill,Explain machine learning to a beginner in one sentence.,That's a great skill to have.  I'm sure you'll be able to figure it out in no time.,2.928,26,0,0,0,0
+facebook/blenderbot-400M-distill,Answer this geography question: What is the capital city of France?,"I'm not sure, but I do know that the city of Paris is the most populous city in France.",2.989,27,1,1,0,2
